@@ -8,7 +8,7 @@
 
 ### Hey nice to meet you, I'm Rohan Arora
 - 🚩 Iam from India
-- 🔭 Iam learning **Python** 
+- 🔭 Iam learning **React** 
 - 📫 Contact me at **contact@lazybuds.xyz**
 - ⚡ Iam currently working with Team Lazy Buds
 - 🌱 2021 Goals: Grow my Discord Bot Tommy.
