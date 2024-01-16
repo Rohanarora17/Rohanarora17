@@ -141,7 +141,4 @@
 </p>
 
 
-<h2> Github Stats </h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohanarora17&show_icons=true&theme=dark&line_height=21">
-</p>
+
